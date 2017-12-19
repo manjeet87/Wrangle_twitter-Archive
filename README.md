@@ -1,0 +1,2 @@
+# Wrangle_twitter-Archive
+This is a part of Udacity Data Analyst Nanodegree, in Data Wrangling Module. Here the job is to collect twitter archive data of 'WeRateDog' twitter handle, from twitter API, already provided unformated CSV and TSV files. Next wrangle the data, perform necessary cleaning and generate a final database, which can be used to subsequent Data Exploration and Analysis. Some of the visual explorartion is been performed in the end.
